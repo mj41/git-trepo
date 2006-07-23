@@ -1,5 +1,3 @@
 line 1 of fileR1.txt
-line 2 of fileR1.txt
+
 line 3 of fileR1.txt
-line 4 of fileR1.txt
-line 5 of fileR1.txt
