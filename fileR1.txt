@@ -1,3 +1,0 @@
-line 1 of fileR1.txt
-
-line 3 of fileR1.txt
