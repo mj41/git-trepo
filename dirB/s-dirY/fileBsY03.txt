@@ -1,0 +1,5 @@
+line 1 of dirB/s-dirY/fileBsY03.txt
+line 2 of dirB/s-dirY/fileBsY03.txt
+line 3 of dirB/s-dirY/fileBsY03.txt
+
+line 5 of dirB/s-dirY/fileBsY03.txt
