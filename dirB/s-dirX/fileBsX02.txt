@@ -3,3 +3,8 @@ line 2 of dirB/s-dirX/fileBsX02.txt
 line 3 of dirB/s-dirX/fileBsX02.txt
 line 4 of dirB/s-dirX/fileBsX02.txt
 line 5 of dirB/s-dirX/fileBsX02.txt
+line 6 of dirB/s-dirX/fileBsX02.txt
+-
+-
+-
+line 9 of dirB/s-dirX/fileBsX02.txt
